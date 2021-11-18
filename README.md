@@ -13,7 +13,7 @@ Wiki rus Wiki eng
 
 Как запустить программу с помощью консоли Скачайте файлы из репозитория
 
-git clone https://github.com/dvtinkov/hangman.git
+git clone https://github.com/av-sit/hangman.git
 Откройте консоль
 
 Перейдите в нужную директорию:
